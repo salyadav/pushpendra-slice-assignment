@@ -1,0 +1,17 @@
+{
+  "name": "slice-assignment",
+  "version": "1.0.0",
+  "description": "An API for word count application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "author": "Pushpendra Upadhyay",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.13"
+  }
+}
